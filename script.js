@@ -354,10 +354,7 @@ function typeMessage() {
         "I'm so grateful to have you in my life.",
         "May this year bring you all the joy you deserve.",
         "You deserve the world and more.",
-        "Happy Birthday, my special one! 💗🪄💐",
-        "May this year bring you all the joy you deserve.",
-        "You deserve the world and more.",
-        "Happy Birthday, my love! ❤"
+        "Happy Birthday, my special one! 💗🪄💐"
     ];
     
     const typingText = document.getElementById('typingText');
@@ -512,3 +509,4 @@ function shareOnSocial(platform) {
     });
 
 }
+
