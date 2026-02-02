@@ -1,7 +1,7 @@
 // Initialize variables
 let currentStep = 1;
 const totalSteps = 6;
-let userName = "My Love";
+let userName = "My comfort person";
 
 
 // Initialize particles.js
@@ -349,7 +349,7 @@ function typeMessage() {
         `Dear ${userName},`,
         "On your special day, I want you to know...",
        " You are the most beautiful part of my life .",
-        "I want to see you smile in your face on everyday",
+        "I want to see smile in your face on everyday",
         "Your love gives me strength and happiness.",
         "I'm so grateful to have you in my life.",
         "May this year bring you all the joy you deserve.",
@@ -510,4 +510,5 @@ function shareOnSocial(platform) {
         yoyo: true,
         repeat: 1
     });
+
 }
